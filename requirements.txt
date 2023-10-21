@@ -5,5 +5,6 @@ seaborn
 matplotlib
 scikit-learn
 dill
-catboost
+# catboost
+flask
 # -e .
